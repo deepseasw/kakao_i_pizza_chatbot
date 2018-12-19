@@ -1,2 +1,1 @@
-# kakao_i_pizza_chatbot
-카카오i 오픈빌더로 피자챗봇 만들기
+자세한 사용법은 kakao_i_pizza_chatbot.pdf 파일을 참고하시기 바랍니다.
